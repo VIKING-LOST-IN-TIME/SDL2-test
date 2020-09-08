@@ -1,0 +1,5 @@
+C:/Users/jrn/Source/Repos/CMakeProjectSDL/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/jrn/Source/Repos/CMakeProjectSDL/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/jrn/Source/Repos/CMakeProjectSDL/out/build/x64-Debug (default)/CMakeProjectSDL/CMakeFiles/CMakeProjectSDL.dir
+C:/Users/jrn/Source/Repos/CMakeProjectSDL/out/build/x64-Debug (default)/CMakeProjectSDL/CMakeFiles/edit_cache.dir
+C:/Users/jrn/Source/Repos/CMakeProjectSDL/out/build/x64-Debug (default)/CMakeProjectSDL/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+1	1023	621205435	CMakeProjectSDL/CMakeFiles/CMakeProjectSDL.dir/CMakeProjectSDL.cpp.obj	fa448e662d79d596
+0	657	621205550	CMakeProjectSDL/CMakeFiles/CMakeProjectSDL.dir/CMakeProjectSDL.cpp.obj	fa448e662d79d596
+657	1053	621205550	CMakeProjectSDL/CMakeProjectSDL.exe	7e64451857967309
+1	741	621205721	CMakeProjectSDL/CMakeFiles/CMakeProjectSDL.dir/CMakeProjectSDL.cpp.obj	fa448e662d79d596
+742	947	621205721	CMakeProjectSDL/CMakeProjectSDL.exe	7e64451857967309
+1	569	621205737	CMakeProjectSDL/CMakeFiles/CMakeProjectSDL.dir/CMakeProjectSDL.cpp.obj	fa448e662d79d596
+569	742	621205737	CMakeProjectSDL/CMakeProjectSDL.exe	7e64451857967309
+1	720	621205925	CMakeProjectSDL/CMakeFiles/CMakeProjectSDL.dir/CMakeProjectSDL.cpp.obj	fa448e662d79d596
+720	926	621205925	CMakeProjectSDL/CMakeProjectSDL.exe	7e64451857967309
